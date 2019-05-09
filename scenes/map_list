@@ -1,0 +1,18 @@
+map0 = OK
+map1 = OK
+map2 = ERROR TOO MANY PLAYERS 
+map3 = ERROR TOO SMALL MAP (MIN 5x5)
+map4 = OK MOST SMALL WITH PLAYER
+map5 = ERROR MAP TOO SHORT (size.map)
+map6 = MAP WITHOUT POSITION
+map7 = ERROR TOO SMALL
+map8 = WITH TOO MANY PLAYERS
+map9 = TOO MANY WALLS
+map10 = WITHOUT POSITION IN THE STRING
+map11 = ONLY WALLS
+map12 = ERROR TOO LONG (size.map)
+
+map1.z = .WOLF
+map2   = .WOLF
+/dev/zero = .WOLF
+/dev/random = .WOLF
